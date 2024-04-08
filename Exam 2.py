@@ -37,3 +37,5 @@ print('Intercept: \n', model.intercept_)
 # Calculate the R-squared value for the model
 r_squared = model.score(X_test, y_test)
 print('R-squared:', r_squared)
+
+print("Go Brewers")
